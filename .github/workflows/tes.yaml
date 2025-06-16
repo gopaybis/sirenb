@@ -1,4 +1,4 @@
-name: cf workers
+name: cf wo
 
 on:
   workflow_dispatch:
