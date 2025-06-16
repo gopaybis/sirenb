@@ -16,5 +16,5 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
 UUID = "02dc9426-1d70-41f8-8679-50bd7b88b3d6"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/mayumikawai/Yumi-siren/refs/heads/master/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/mayumikawai/Yumi-siren/refs/heads/master/web/sub.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/gopaybis/sirenb/refs/heads/main/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/gopaybis/sirenb/refs/heads/main/web/sub.html"
